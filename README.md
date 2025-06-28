@@ -90,12 +90,6 @@ Sou **Engenheiro da Computação** em formação no IFSP (5º ano) e **Desenvolv
 - 🏆 **3 projetos de extensão** acadêmica
 - 🔬 **1 iniciação científica** em tecnologias ambientais
 
-## 📈 Atividade GitHub
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lourencohn&theme=tokyo-night)
-
-## 🤝 Vamos nos conectar!
-
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lourencohn)
