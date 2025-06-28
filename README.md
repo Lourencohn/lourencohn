@@ -50,24 +50,11 @@ Sou **Engenheiro da Computação** em formação no IFSP (5º ano) e **Desenvolv
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 📊 Estatísticas GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lourencohn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lourencohn&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lourencohn&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
 ## 🏆 Experiência Profissional
 
 ### 💼 Trovata Catálogo Digital | Desenvolvedor Mobile
 *Março 2023 - Presente*
 - Desenvolvimento de aplicativos multiplataforma com **Kotlin Multiplatform (KMP)**
-- Aplicações com **+1.000 usuários ativos**
-- Otimização de performance aumentando velocidade em **30%**
 - Integração com **APIs RESTful** e bancos de dados **SQLite**
 
 ### 🎓 Projetos Acadêmicos Destacados
