@@ -11,7 +11,7 @@
 Sou **Engenheiro da Computação** em formação no IFSP (5º ano) e **Desenvolvedor Full Stack** apaixonado por criar soluções tecnológicas inovadoras. Atualmente trabalho como **Desenvolvedor Mobile** na Trovata, onde desenvolvo aplicações multiplataforma com **Kotlin Multiplatform (KMP)**.
 
 - 🔭 Trabalho atualmente na **Trovata** como Desenvolvedor Mobile
-- 🌱 Especialista em **KMP, React, TypeScript, NextJS e PHP**
+- 🌱 Desenvolvedor FullStack com enfâse em **KMP, React, TypeScript, NextJS e PHP**
 - 💡 Experiência sólida em **análise de dados com Python**
 - 🎓 **3 projetos de extensão** e **1 iniciação científica** no currículo acadêmico
 - 📱 Focado em **arquitetura limpa** e **boas práticas de desenvolvimento**
@@ -78,8 +78,9 @@ Sou **Engenheiro da Computação** em formação no IFSP (5º ano) e **Desenvolv
 
 ## 🎯 Projetos em Destaque
 
-- 📱 **App Catálogo Digital** - Kotlin Multiplatform para e-commerce B2B
+- 📱 **App Coletor de pedidos** - Kotlin Multiplatform para e-commerce B2B
 - 🌐 **Portfólio Pessoal** - React + TypeScript + Tailwind CSS
+- 💻 **Site de ánalise de filmes e séries** - React + TypeScript + Tailwind CSS
 - 🔬 **Análise de Dados Ambientais** - Python + TensorFlow + IoT
 - 💻 **Sistemas Web Personalizados** - PHP + Laravel para clientes comerciais
 
